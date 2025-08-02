@@ -1,0 +1,15 @@
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\bin\Debug\net9.0\TriangleIdentifier.exe
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\bin\Debug\net9.0\TriangleIdentifier.deps.json
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\bin\Debug\net9.0\TriangleIdentifier.runtimeconfig.json
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\bin\Debug\net9.0\TriangleIdentifier.dll
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\bin\Debug\net9.0\TriangleIdentifier.pdb
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.AssemblyInfoInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.AssemblyInfo.cs
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.sourcelink.json
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.dll
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\obj\Debug\net9.0\refint\TriangleIdentifier.dll
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.pdb
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.genruntimeconfig.cache
+C:\Users\elike\Desktop\dcit318-assignment1-11030263\TriangleIdentifier\obj\Debug\net9.0\ref\TriangleIdentifier.dll
